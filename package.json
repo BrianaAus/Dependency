@@ -1,0 +1,18 @@
+{
+  "name": "Roshambo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/yargs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Briana",
+  "license": "SDI",
+  "bin": {
+    "play": "./bin/yargs.js"
+  },
+  "dependencies": {
+    "yargs": "^13.2.4"
+  }
+}
